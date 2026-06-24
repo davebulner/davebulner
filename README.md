@@ -40,9 +40,3 @@
 ### ⚡ Currently Learning
 - 📱 Building cross-platform mobile applications with **React Native (Expo)**.
 - ⚙️ Designing event-driven microservices with **Kafka** and **AWS (Infrastructure as Code)**.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davebulner&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="davebulner's GitHub stats" />
-</p>
